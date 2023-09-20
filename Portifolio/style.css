@@ -1,0 +1,7 @@
+canvas {
+    margin:0;
+    padding: 0;
+    box-sizing:border-box;
+    background: rgb(255, 255, 255);
+    position:absolute;
+}
